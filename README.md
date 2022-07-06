@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## This project demonstrates data fetched on Dummy Json, using redux api and global state
+## Tech Stacks Uses
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nativescript.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg"/></div>
 ## Available Scripts
 
 In the project directory, you can run:
